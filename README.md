@@ -1,8 +1,8 @@
 Hi 👋 My name is Ounejjar Mehdi Aka Shonjmoj
 ============================================
+*Currently student at 1337 school (42 Network)
 
-Currently student at 1337 school (42 Network)
----------------------------------------------
+
 A self-taught web developer
 
 *   🌍  I'm based in Casablanca, MA
