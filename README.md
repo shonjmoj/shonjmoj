@@ -1,10 +1,9 @@
 Hi 👋 My name is Ounejjar Mehdi Aka Shonjmoj
 ============================================
-Currently student at 1337 school (42 Network)
-
-
 A self-taught web developer
 
+
+Currently student at 1337 school (42 Network).
 *   🌍  I'm based in Casablanca, MA
 *   ✉️  You can contact me at [ounejjarmehdi@gmail.com](mailto:ounejjarmehdi@gmail.com)
 *   🧠  I'm learning Nextjs (advanced concepts)
@@ -27,3 +26,4 @@ A self-taught web developer
 ### Socials :
 
 <p align="left"> <a href="https://www.github.com/miid0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ouaaa77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
