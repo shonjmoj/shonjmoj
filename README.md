@@ -1,6 +1,6 @@
 Hi 👋 My name is Ounejjar Mehdi Aka Shonjmoj
 ============================================
-# A self-taught web developer
+**A self-taught web developer**
 
 
 Currently student at 1337 school (42 Network).
