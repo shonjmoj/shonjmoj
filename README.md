@@ -2,6 +2,9 @@
 <h3 align="left">A passionate frontend developer from Morocco</h3>
 
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 - 🔭 I’m currently working on **Matcha (Tinder-app like)**
 
 - 🌱 I’m currently learning **everything related to Web developement 😄**
@@ -12,7 +15,7 @@
 
 - ⚡ Fun fact **I spend hours listening to music or making it 🎶**
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 <h3 align="left">Connect with me:</h3>
 
