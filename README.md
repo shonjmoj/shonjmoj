@@ -1,6 +1,8 @@
-<h1 align="letf">Hi 👋, I'm Ounejjar Mehdi Aka Shonjmoj</h1>
-<h3 align="left">A passionate frontend developer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Ounejjar Mehdi Aka Shonjmoj</h1>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
+
+![age](https://img.shields.io/badge/age-22-blue)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
