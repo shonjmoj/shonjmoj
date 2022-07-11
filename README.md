@@ -4,7 +4,7 @@
 
 ![age](https://img.shields.io/badge/age-22-blue)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 🔭 I’m currently working on **Matcha (Tinder-app like)**
