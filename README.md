@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" width="100%" height="20%" src="https://i.pinimg.com/originals/c0/e1/5f/c0e15fc5b0a8751878fb7ccf17c4fa89.jpg"  />
+<img align="center" alt="GIF" width="100%" height="10%" src="https://i.pinimg.com/originals/c0/e1/5f/c0e15fc5b0a8751878fb7ccf17c4fa89.jpg"  />
 
 <h1 align="center">Yo 👋, I'm Ounejjar Mehdi Aka Shonjmoj</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
