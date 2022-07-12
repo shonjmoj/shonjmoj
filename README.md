@@ -1,7 +1,7 @@
 <img align="center" alt="GIF" width="100%" height="500px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
 <h1 align="center">Yo 👋, I'm Ounejjar Mehdi A.k.a Shonjmoj</h1>
-<h3 align="center">A passionate frontend developer from Morocco, and also 1337 student.</h3>
+<h3 align="center">A passionate frontend developer from Morocco, and also a 1337 student.</h3>
 
 
 ![age](https://img.shields.io/badge/age-22-blue)
