@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **Matcha (Tinder-app like)**
+- 🔭 I’m currently working on **Weserver (42's cursus project)**
 
 - 🌱 I’m currently learning **everything related to Web developement 😄**
 
