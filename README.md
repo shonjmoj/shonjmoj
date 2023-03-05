@@ -4,16 +4,13 @@
 <h3 align="center">A passionate frontend developer from Morocco, and also a 1337 student.</h3>
 
 
-![age](https://img.shields.io/badge/age-22-blue)
-![living](https://img.shields.io/badge/living-Casablanca-3c9)
-
 
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
 
-- 🔭 I’m currently working on **Weserver (42's cursus project)**
+- 🔭 I’m currently working on **Webserver (42's cursus project)**
 
 - 🌱 I’m currently learning **everything related to Web developement 😄**
 
