@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working on **Webserver (42's cursus project)**
+- 🔭 I’m currently working on **ft_transcendence (42's cursus project)**
 
 - 🌱 I’m currently learning **everything related to Web developement 😄**
 
