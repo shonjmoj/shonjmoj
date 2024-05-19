@@ -1,7 +1,7 @@
 <img align="center" alt="GIF" width="100%" height="500px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
-<h1 align="center">Yo 👋, I'm Ounejjar Mehdi A.k.a Shonjmoj</h1>
-<h3 align="center">A passionate frontend developer from Morocco, and also a 1337 student.</h3>
+<h1 align="center">Yo 👋, I'm Ounejjar Elmehdi a.k.a Shonjmoj</h1>
+<h3 align="center">A self-taught Full-stac developer from Morocco and 1337 student.</h3>
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **everything related to Web developement 😄**
+- 🌱 I’m currently learning **everything related to Web development 😄**
 
 - 👯 I’m looking to collaborate on **Open source projects 🤝**
 
